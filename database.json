@@ -1,0 +1,82 @@
+{
+  "users": {
+    "919579744516@s.whatsapp.net": {
+      "exp": 8,
+      "limit": 20,
+      "lastclaim": 0,
+      "registered": false,
+      "name": "SHUBHM",
+      "age": -1,
+      "regTime": -1,
+      "afk": -1,
+      "afkReason": "",
+      "banned": false,
+      "level": 0,
+      "role": "Beginner",
+      "autolevelup": false
+    },
+    "918999112489@s.whatsapp.net": {
+      "exp": 200,
+      "limit": 20,
+      "lastclaim": 0,
+      "registered": false,
+      "name": "Me 😂",
+      "age": -1,
+      "regTime": -1,
+      "afk": -1,
+      "afkReason": "",
+      "banned": false,
+      "level": 0,
+      "role": "Beginner",
+      "autolevelup": false
+    }
+  },
+  "chats": {
+    "918999112489@s.whatsapp.net": {
+      "isBanned": false,
+      "welcome": false,
+      "detect": false,
+      "sWelcome": "",
+      "sBye": "",
+      "sPromote": "",
+      "sDemote": "",
+      "delete": true,
+      "antiLink": false,
+      "viewonce": false
+    },
+    "120363021329063194@g.us": {
+      "isBanned": false,
+      "welcome": false,
+      "detect": false,
+      "sWelcome": "",
+      "sBye": "",
+      "sPromote": "",
+      "sDemote": "",
+      "delete": true,
+      "antiLink": false,
+      "viewonce": false
+    }
+  },
+  "stats": {
+    "simsimi.js": {
+      "total": 6,
+      "success": 6,
+      "last": 1642785997504,
+      "lastSuccess": 1642785997504
+    },
+    "menu.js": {
+      "total": 3,
+      "success": 3,
+      "last": 1642786066317,
+      "lastSuccess": 1642786066317
+    },
+    "resetprefix.js": {
+      "total": 2,
+      "success": 2,
+      "last": 1642785861258,
+      "lastSuccess": 1642785861258
+    }
+  },
+  "msgs": {},
+  "sticker": {}
+}
